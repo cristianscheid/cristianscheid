@@ -1,4 +1,4 @@
-## Cristian Scheid - Full Stack Engineer
+## Cristian Scheid - Full Stack Developer
 
 ### About Me
 
