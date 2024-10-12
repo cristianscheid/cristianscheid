@@ -4,7 +4,7 @@
 
 - 🎓 Bachelor of Science in Computer Engineering (Univates - Universidade do Vale do Taquari).
 - 📚 Enthusiastic about exploring new technologies and optimizing code performance.
-- 💼 Currently working with Magento, PHP, MySQL, JavaScript, HTML, CSS, Git, Linux, and Docker.
+- 💼 Currently working with PHP, Magento, MySQL, JavaScript, HTML, CSS, Git, Linux, and Docker.
 
 ### Contact Information
 
