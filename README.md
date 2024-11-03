@@ -8,23 +8,24 @@
 
 ### Stack
 
-[![PHP](https://img.shields.io/badge/PHP-6C6E72?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![HTML](https://img.shields.io/badge/HTML-6C6E72?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-6C6E72?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-6C6E72?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MySQL](https://img.shields.io/badge/MySQL-6C6E72?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Laravel](https://img.shields.io/badge/Laravel-6C6E72?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Magento](https://img.shields.io/badge/Magento-6C6E72?style=flat-square&logo=magento&logoColor=white)](https://magento.com/)
-[![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-6C6E72?style=flat-square&logo=api&logoColor=white)](https://restfulapi.net/)
-[![jQuery](https://img.shields.io/badge/jQuery-6C6E72?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
-[![React](https://img.shields.io/badge/React-6C6E72?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
-[![Git](https://img.shields.io/badge/Git-6C6E72?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-6C6E72?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
+![PHP](https://img.shields.io/badge/PHP-607D8B?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-607D8B?style=flat-square&logo=javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-607D8B?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-607D8B?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-607D8B?style=flat-square&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-607D8B?style=flat-square&logo=laravel&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento-607D8B?style=flat-square&logo=magento&logoColor=white)
+![React](https://img.shields.io/badge/React-607D8B?style=flat-square&logo=react&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-607D8B?style=flat-square&logo=jquery&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-607D8B?style=flat-square&logo=api&logoColor=white)
+![Git](https://img.shields.io/badge/Git-607D8B?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-607D8B?style=flat-square&logo=linux&logoColor=white)
 
 ### Contact Information
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-6C6E72?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristianscheid@gmail.com)](mailto:cristianscheid@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6C6E72?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-scheid/)](https://www.linkedin.com/in/cristian-scheid/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-6C6E72?style=flat-square&labelColor=6C6E72&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551995531260&text=Hello!)](https://api.whatsapp.com/send?phone=5551995531260&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-BF3030?style=flat-square&logo=Gmail&logoColor=white)](mailto:cristianscheid@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-2B66B2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-scheid/)
+[![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-4A8C2A?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551995531260&text=Hello!)
+
 
 Feel free to reach out if you have any questions or would like to connect. I am always open to discussing new projects, innovative ideas, or potential opportunities.
