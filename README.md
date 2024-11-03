@@ -23,6 +23,8 @@
 
 ### Get in Touch
 
+I’m always open to new opportunities and collaborations. Feel free to reach out!
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-BF3030?style=flat-square&logo=Gmail&logoColor=white)](mailto:cristianscheid@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2B66B2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-scheid/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4A8C2A?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551995531260&text=Hello!)
