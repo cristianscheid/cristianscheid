@@ -6,7 +6,7 @@
 - Bachelor of Science in Computer Engineering (Univates - Universidade do Vale do Taquari).
 - Currently working with e-commerce solutions.
 
-### Stack
+### Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-3D444D?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3D444D?style=flat-square&logo=javascript&logoColor=white)
