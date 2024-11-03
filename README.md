@@ -9,15 +9,15 @@
 ### Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-003C71?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-003C71?style=flat-square&logo=javascript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-003C71?style=flat-square&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-003C71?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-003C71?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-003C71?style=flat-square&logo=javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-003C71?style=flat-square&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-003C71?style=flat-square&logo=laravel&logoColor=white)
 ![Magento](https://img.shields.io/badge/Magento-003C71?style=flat-square&logo=magento&logoColor=white)
-![React](https://img.shields.io/badge/React-003C71?style=flat-square&logo=react&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-003C71?style=flat-square&logo=jquery&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-003C71?style=flat-square&logo=api&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-003C71?style=flat-square&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-003C71?style=flat-square&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-003C71?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-003C71?style=flat-square&logo=linux&logoColor=white)
 
