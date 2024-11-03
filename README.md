@@ -4,7 +4,11 @@
 
 - 📚 Passionate about exploring new technologies and optimizing code performance.
 - 🎓 Bachelor of Science in Computer Engineering (Univates - Universidade do Vale do Taquari).
-- 💼 Currently focused on developing innovative e-commerce solutions that enhance user experience.
+- 💼 Currently working with e-commerce solutions.
+
+### Stack
+
+PHP | HTML | CSS | JavaScript | MySQL | Laravel | Magento | RESTful APIs | jQuery | React | Git | Linux
 
 ### Contact Information
 
