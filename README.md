@@ -2,9 +2,9 @@
 
 ### About Me
 
-- 📚 Passionate about exploring new technologies and optimizing code performance.
-- 🎓 Bachelor of Science in Computer Engineering (Univates - Universidade do Vale do Taquari).
-- 💼 Currently working with e-commerce solutions.
+- Passionate about exploring new technologies and optimizing code performance.
+- Bachelor of Science in Computer Engineering (Univates - Universidade do Vale do Taquari).
+- Currently working with e-commerce solutions.
 
 ### Stack
 
