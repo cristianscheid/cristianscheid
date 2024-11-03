@@ -6,7 +6,7 @@
 - Bachelor of Science in Computer Engineering (Univates - Universidade do Vale do Taquari).
 - Currently working with e-commerce solutions.
 
-### Tech Stack
+### Technical Abilities
 
 ![PHP](https://img.shields.io/badge/PHP-003C71?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-003C71?style=flat-square&logo=javascript&logoColor=white)
@@ -21,10 +21,8 @@
 ![Git](https://img.shields.io/badge/Git-003C71?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-003C71?style=flat-square&logo=linux&logoColor=white)
 
-### Contact Information
+### Get in Touch
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-BF3030?style=flat-square&logo=Gmail&logoColor=white)](mailto:cristianscheid@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2B66B2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-scheid/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4A8C2A?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551995531260&text=Hello!)
-
-Feel free to reach out if you have any questions or would like to connect. I am always open to discussing new projects, innovative ideas, or potential opportunities.
