@@ -37,9 +37,7 @@ I am always open to discussing new projects, innovative ideas, or potential oppo
 [js-badge]: https://img.shields.io/badge/JavaScript-gray?style=flat-square&logo=javascript&logoColor=white
 [mysql-badge]: https://img.shields.io/badge/MySQL-gray?style=flat-square&logo=mysql&logoColor=white
 [laravel-badge]: https://img.shields.io/badge/Laravel-gray?style=flat-square&logo=laravel&logoColor=white
-[magento-badge]: ![Magento][magento-f26322]
-
-[magento-badge]: https://img.shields.io/badge/Magento-gray?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM6dj0iaHR0cHM6Ly92ZWN0YS5pby9uYW5vIj48cGF0aCBkPSJNMTIgMjRsLTQuNDU1LTIuNTcydi0xMmwyLjk3LTEuNzE1djEyLjAwMWwxLjQ4NS45MDIgMS40ODUtLjkwMlY3LjcxM2wyLjk3MSAxLjcxNXYxMkwxMiAyNHpNMjIuMzkxIDZ2MTJsLTIuOTY5IDEuNzE0VjcuNzEzTDEyIDMuNDMgNC41NzQgNy43MTN2MTIuMDAxTDEuNjA5IDE4VjZMMTIgMGwxMC4zOTEgNnoiIGZpbGw9IiNmMjYzMjIiLz48L3N2Zz4=
+[magento-badge]: https://img.shields.io/badge/Magento-gray?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM6dj0iaHR0cHM6Ly92ZWN0YS5pby9uYW5vIj48cGF0aCBkPSJNMTIgMjRsLTQuNDU1LTIuNTcydi0xMmwyLjk3LTEuNzE1djEyLjAwMWwxLjQ4NS45MDIgMS40ODUtLjkwMlY3LjcxM2wyLjk3MSAxLjcxNXYxMkwxMiAyNHpNMjIuMzkxIDZ2MTJsLTIuOTY5IDEuNzE0VjcuNzEzTDEyIDMuNDMgNC41NzQgNy43MTN2MTIuMDAxTDEuNjA5IDE4VjZMMTIgMGwxMC4zOTEgNnoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=
 [restful-apis-badge]: https://img.shields.io/badge/RESTful_APIs-gray?style=flat-square&logo=api&logoColor=white
 [jquery-badge]: https://img.shields.io/badge/jQuery-gray?style=flat-square&logo=jquery&logoColor=white
 [react-badge]: https://img.shields.io/badge/React-gray?style=flat-square&logo=react&logoColor=white
