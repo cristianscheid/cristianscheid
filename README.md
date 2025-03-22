@@ -1,6 +1,6 @@
 ## Cristian Scheid
 
-### About Me
+### About
 
 I'm a Full Stack Developer with over a year of professional experience and a Bachelor's degree in Computer Engineering. My programming journey began in 2017, and I transitioned to a full-time development role in February 2024.
 
