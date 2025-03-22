@@ -1,10 +1,14 @@
-## Cristian Scheid - Full Stack Developer
+## Cristian Scheid
 
 ### About Me
 
-- Passionate about exploring new technologies and optimizing code performance.
-- Bachelor of Science in Computer Engineering (Univates - Universidade do Vale do Taquari).
-- Currently working with e-commerce solutions.
+I'm a Full Stack Developer with over a year of professional experience and a Bachelor's degree in Computer Engineering. My programming journey began in 2017, and I transitioned to a full-time development role in February 2024.
+
+Currently, I work at Tezus, where I implement and maintain e-commerce solutions, focusing on addressing customer needs, enhancing user experiences, and driving business success. I am fluent in English, which allows me to collaborate effectively on international projects and work with diverse teams.
+
+Outside of work, I’m constantly expanding my knowledge through personal projects, exploring new technologies, and staying up to date with industry trends. I enjoy solving challenges that encourage creative problem-solving and continuous learning.
+
+My goal is to create meaningful, high-impact solutions and collaborate on projects that deliver value to both individuals and businesses.
 
 ### Tech Stack
 
