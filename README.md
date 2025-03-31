@@ -30,7 +30,7 @@ My goal is to create meaningful, high-impact solutions and collaborate on projec
 I am always open to discussing new projects, innovative ideas, or potential opportunities. Feel free to reach out!
 
 [![Gmail Badge][gmail-badge]](mailto:cristianscheid@gmail.com)
-[![LinkedIn Badge][linkedin-badge]](https://www.linkedin.com/in/cristian-scheid/)
+[![LinkedIn Badge][linkedin-badge]](https://www.linkedin.com/in/cristianscheid/)
 [![Whatsapp Badge][whatsapp-badge]](https://api.whatsapp.com/send?phone=5551995531260&text=Hello!)
 
 <!-- Badges for 'Tech Stack' section -->
