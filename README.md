@@ -13,15 +13,13 @@ My goal is to create meaningful, high-impact solutions and collaborate on projec
 ### Tech Stack
 
 ![PHP][php-badge]
-![HTML][html-badge]
-![CSS][css-badge]
+![Node.js][node-badge]
 ![JavaScript][js-badge]
-![MySQL][mysql-badge]
-![Laravel][laravel-badge]
-![Magento][magento-badge]
-![RESTful APIs][restful-apis-badge]
-![jQuery][jquery-badge]
+![TypeScript][ts-badge]
 ![React][react-badge]
+![MySQL][mysql-badge]
+![PostgreSQL][postgresql-badge]
+![RESTful APIs][restful-apis-badge]
 ![Git][git-badge]
 ![Linux][linux-badge]
 
@@ -36,15 +34,13 @@ I am always open to discussing new projects, innovative ideas, or potential oppo
 <!-- Badges for 'Tech Stack' section -->
 
 [php-badge]: https://img.shields.io/badge/PHP-gray?style=flat-square&logo=php&logoColor=white
-[html-badge]: https://img.shields.io/badge/HTML-gray?style=flat-square&logo=html5&logoColor=white
-[css-badge]: https://img.shields.io/badge/CSS-gray?style=flat-square&logo=css3&logoColor=white
+[node-badge]: https://img.shields.io/badge/Node.js-gray?style=flat-square&logo=node.js&logoColor=white
 [js-badge]: https://img.shields.io/badge/JavaScript-gray?style=flat-square&logo=javascript&logoColor=white
-[mysql-badge]: https://img.shields.io/badge/MySQL-gray?style=flat-square&logo=mysql&logoColor=white
-[laravel-badge]: https://img.shields.io/badge/Laravel-gray?style=flat-square&logo=laravel&logoColor=white
-[magento-badge]: https://img.shields.io/badge/Magento-gray?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM6dj0iaHR0cHM6Ly92ZWN0YS5pby9uYW5vIj48cGF0aCBkPSJNMTIgMjRsLTQuNDU1LTIuNTcydi0xMmwyLjk3LTEuNzE1djEyLjAwMWwxLjQ4NS45MDIgMS40ODUtLjkwMlY3LjcxM2wyLjk3MSAxLjcxNXYxMkwxMiAyNHpNMjIuMzkxIDZ2MTJsLTIuOTY5IDEuNzE0VjcuNzEzTDEyIDMuNDMgNC41NzQgNy43MTN2MTIuMDAxTDEuNjA5IDE4VjZMMTIgMGwxMC4zOTEgNnoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=
-[restful-apis-badge]: https://img.shields.io/badge/RESTful_APIs-gray?style=flat-square&logo=api&logoColor=white
-[jquery-badge]: https://img.shields.io/badge/jQuery-gray?style=flat-square&logo=jquery&logoColor=white
+[ts-badge]: https://img.shields.io/badge/TypeScript-gray?style=flat-square&logo=typescript&logoColor=white
 [react-badge]: https://img.shields.io/badge/React-gray?style=flat-square&logo=react&logoColor=white
+[mysql-badge]: https://img.shields.io/badge/MySQL-gray?style=flat-square&logo=mysql&logoColor=white
+[postgresql-badge]: https://img.shields.io/badge/PostgreSQL-gray?style=flat-square&logo=postgresql&logoColor=white
+[restful-apis-badge]: https://img.shields.io/badge/RESTful_APIs-gray?style=flat-square&logo=api&logoColor=white
 [git-badge]: https://img.shields.io/badge/Git-gray?style=flat-square&logo=git&logoColor=white
 [linux-badge]: https://img.shields.io/badge/Linux-gray?style=flat-square&logo=linux&logoColor=white
 
