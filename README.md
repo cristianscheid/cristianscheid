@@ -13,6 +13,7 @@ My goal is to create meaningful, high-impact solutions and collaborate on projec
 ### Tech Stack
 
 ![PHP][php-badge]
+![Python][python-badge]
 ![Node.js][node-badge]
 ![JavaScript][js-badge]
 ![TypeScript][ts-badge]
@@ -34,6 +35,7 @@ I am always open to discussing new projects, innovative ideas, or potential oppo
 <!-- Badges for 'Tech Stack' section -->
 
 [php-badge]: https://img.shields.io/badge/PHP-gray?style=flat-square&logo=php&logoColor=white
+[python-badge]: https://img.shields.io/badge/Python-gray?style=flat-square&logo=python&logoColor=white
 [node-badge]: https://img.shields.io/badge/Node.js-gray?style=flat-square&logo=node.js&logoColor=white
 [js-badge]: https://img.shields.io/badge/JavaScript-gray?style=flat-square&logo=javascript&logoColor=white
 [ts-badge]: https://img.shields.io/badge/TypeScript-gray?style=flat-square&logo=typescript&logoColor=white
